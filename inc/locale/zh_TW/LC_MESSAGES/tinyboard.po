@@ -582,7 +582,7 @@ msgstr "您並未貼文。"
 #: ../../../../inc/config.php:1035 ../../../../inc/config.php:1038
 #: ../../../..//inc/config.php:1104 ../../../../inc/config.php:1105
 msgid "Flood detected; Post discarded."
-msgstr "偵測到洪水攻擊；貼文已丟棄。"
+msgstr "偵測到洪水攻擊；貼文已捨棄。"
 
 #: ../../../../inc/config.php:882 ../../../../inc/config.php:987
 #: ../../../../inc/config.php:978 ../../../../inc/config.php:980
@@ -590,7 +590,7 @@ msgstr "偵測到洪水攻擊；貼文已丟棄。"
 #: ../../../../inc/config.php:1007 ../../../../inc/config.php:1033
 #: ../../../../inc/config.php:1036 ../../../../inc/config.php:1039
 msgid "Your request looks automated; Post discarded."
-msgstr "您的請求看似自動化；貼文已丟棄。"
+msgstr "您的請求看似自動化；貼文已捨棄。"
 
 #: ../../../../inc/config.php:883 ../../../../inc/config.php:988
 #: ../../../../inc/config.php:979 ../../../../inc/config.php:981
@@ -647,7 +647,7 @@ msgstr "太多鏈結；已偵測洪水攻擊。"
 #: ../../../../inc/config.php:1042 ../../../../inc/config.php:1045
 #: ../../../..//inc/config.php:1112 ../../../../inc/config.php:1113
 msgid "Too many cites; post discarded."
-msgstr "太多引用；貼文已丟棄。"
+msgstr "太多引用；貼文已捨棄。"
 
 #: ../../../../inc/config.php:889 ../../../../inc/config.php:994
 #: ../../../../inc/config.php:985 ../../../../inc/config.php:987
@@ -656,7 +656,7 @@ msgstr "太多引用；貼文已丟棄。"
 #: ../../../../inc/config.php:1043 ../../../../inc/config.php:1046
 #: ../../../..//inc/config.php:1113 ../../../../inc/config.php:1114
 msgid "Too many cross-board links; post discarded."
-msgstr "太多跨版鏈結；貼文已丟棄。"
+msgstr "太多跨版鏈結；貼文已捨棄。"
 
 #: ../../../../inc/config.php:890 ../../../../inc/config.php:995
 #: ../../../../inc/config.php:986 ../../../../inc/config.php:988
@@ -799,7 +799,7 @@ msgstr "您似乎打錯驗證碼了。"
 msgid ""
 "You are only allowed to unban %s users at a time. You tried to unban %u "
 "users."
-msgstr "您只能一次解封 %s 位用戶。您試可解封 %u 位。"
+msgstr "您只能一次解封 %s 位用戶。您嘗試解封 %u 位。"
 
 #: ../../../../inc/config.php:907 ../../../../inc/config.php:1012
 #: ../../../../inc/config.php:1003 ../../../../inc/config.php:1005
@@ -3144,7 +3144,7 @@ msgstr "沒有作用中的封禁。"
 #: ../../../../templates/cache/ba/55/2553cc018aecf7d29a62331aec4bedc71b646817c7e4c4e7d1a885263676.php:39
 #: ../../../../templates/cache/6a/a4/b13523024ba2660a4f8f05e0c909c55477f675db9a2620075762ac245c91.php:137
 msgid "IP address/mask"
-msgstr "IP 位址／遞罩"
+msgstr "IP 位址／遮罩"
 
 #. line 12
 #. line 51
@@ -3190,7 +3190,7 @@ msgstr "選取解除封禁"
 #: ../../../../templates/cache/de/cb/8185f806d51710c4c2aa41afff42a605de87d802d75dc3503ff140ef18d3.php:27
 #: ../../../../templates/cache/bf/86/87067e37064aaa12ca8f7822eba8a711a8d1ac7551e44517ed321972cbd0.php:23
 msgid "Username"
-msgstr "用戶名"
+msgstr "用戶名稱"
 
 #. line 23
 #: ../../../../templates/cache/00/31/a027d7b6d57819b6e43e58620f3f4c76194dd75db65fc888a5053ce62803.php:60
@@ -3260,11 +3260,11 @@ msgstr "縮放圖形失敗！"
 
 #: ../../../../templates/cache/b7/ae/f9663c9ca58d1e218de29e04d0fa229f6263f4e68b613ce608bc023897a2.php:35
 msgid "You were banned! ;_;"
-msgstr "您已被封禁！;_;"
+msgstr "您已被封禁！(´；ω；｀)"
 
 #: ../../../../templates/cache/b7/ae/f9663c9ca58d1e218de29e04d0fa229f6263f4e68b613ce608bc023897a2.php:41
 msgid "You are banned! ;_;"
-msgstr "您已被封禁！;_;"
+msgstr "您已被封禁！(´；ω；｀)"
 
 #: ../../../../templates/cache/b7/ae/f9663c9ca58d1e218de29e04d0fa229f6263f4e68b613ce608bc023897a2.php:52
 msgid "You were banned from"
@@ -3619,14 +3619,14 @@ msgstr "回報由"
 #. line 23
 #: ../../../../templates/cache/3a/62/f804928dbcf285e3d5d8d7ae31b1e3a7c78264f270efa9650d31f69c7897.php:73
 #: ../../../..//templates/cache/52/16/e535d72469ec27ddfc5db7e37245cdb0c2d3c0fc1c15fd6be1e32a5ba90c.php:80
-msgid "Discard abuse report"
-msgstr "丟棄濫用回報"
+msgid "abuse report"
+msgstr "捨棄濫用回報"
 
 #. line 29
 #: ../../../../templates/cache/3a/62/f804928dbcf285e3d5d8d7ae31b1e3a7c78264f270efa9650d31f69c7897.php:93
 #: ../../../..//templates/cache/52/16/e535d72469ec27ddfc5db7e37245cdb0c2d3c0fc1c15fd6be1e32a5ba90c.php:98
 msgid "Discard all abuse reports by this IP address"
-msgstr "丟棄來自此 IP 位址的濫用回報"
+msgstr "捨棄來自此 IP 位址的濫用回報"
 
 #. line 4
 #: ../../../../templates/cache/f9/e9/d592e3c89e2f76520cf989aa8359d3d143d8fa4996ff1d97b3be51f87a05.php:27
@@ -3765,13 +3765,13 @@ msgstr "移動到 %s"
 msgid ""
 "Can't build the RecentPosts theme, because there are no boards to be "
 "fetched."
-msgstr "無法建造 RecentPosts 佈景，因為沒有可取用的版。"
+msgstr "無法建立 RecentPosts 佈景，因為沒有可取用的版。"
 
 #: ../../../../inc/config.php:997 ../../../../inc/config.php:1023
 #: ../../../../inc/config.php:1026 ../../../../inc/config.php:1029
 #: ../../../..//inc/config.php:1095 ../../../../inc/config.php:1096
 msgid "You have attempted to upload too many images!"
-msgstr "您試圖上傳太多圖片！"
+msgstr "您嘗試上傳太多圖片！"
 
 #. line 7
 #: ../../../../templates/cache/b9/2b/ba2b45df5e1d76f6cdfb98a47468df19a1ffc1c2af2dc1792eb75eeb0791.php:36
@@ -3928,14 +3928,14 @@ msgstr "無法獲取 EXIF 後設資料！"
 #: ../../../..//inc/config.php:1123 ../../../../inc/config.php:1123
 #: ../../../../inc/config.php:1124
 msgid "There was a problem processing your webm."
-msgstr ""
+msgstr "處理WEBM時發生問題。"
 
 #. Is this error used anywhere ?
 #: ../../../../inc/config.php:1050 ../../../../inc/config.php:1054
 #: ../../../../inc/config.php:1057 ../../../..//inc/config.php:1124
 #: ../../../../inc/config.php:1125
 msgid "Invalid webm uploaded."
-msgstr ""
+msgstr "上傳的WEBM無效。"
 
 #: ../../../../inc/config.php:1051 ../../../../inc/config.php:1055
 #: ../../../../inc/config.php:1058 ../../../..//inc/config.php:1125
@@ -3954,7 +3954,7 @@ msgstr ""
 #: ../../../../templates/cache/b8/d9/05d4f2709538c393e80cdee33c24efe8d6fd13e68df2f5b3493356ef42e3.php:190
 #: ../../../..//templates/cache/99/20/1287c13fc1fc4c09d45bc069818039e64d4278df360670cb98d50bb03e83.php:264
 msgid "Go to top"
-msgstr ""
+msgstr "回到頂部"
 
 #: ../../../../templates/cache/cf/63/151e140d85df674832f4ede3f3e7811b97d4efa91cac6086ca7e8ce65d25.php:80
 msgid "Don't show my flag"
@@ -4019,7 +4019,7 @@ msgstr ""
 
 #: ../../../..//create.php:67 ../../../../create.php:36
 msgid "Invalid title"
-msgstr ""
+msgstr "無效的標題"
 
 #: ../../../..//create.php:69 ../../../../create.php:38
 msgid "Invalid subtitle"
@@ -4028,7 +4028,7 @@ msgstr ""
 #: ../../../..//create.php:71 ../../../..//inc/8chan-mod-pages.php:211
 #: ../../../../create.php:40 ../../../../inc/8chan-mod-pages.php:174
 msgid "Invalid username"
-msgstr ""
+msgstr "無效的用戶名稱"
 
 #: ../../../..//create.php:75 ../../../../create.php:46
 msgid "Board already exists!"
@@ -4036,7 +4036,7 @@ msgstr ""
 
 #: ../../../..//create.php:93 ../../../../create.php:64
 msgid "The username you've tried to enter already exists!"
-msgstr ""
+msgstr "用戶名稱已經存在"
 
 #: ../../../..//create.php:134 ../../../../create.php:105
 msgid "Success"
@@ -4064,7 +4064,7 @@ msgstr ""
 
 #: ../../../..//dnsbls_bypass.php:43 ../../../../dnsbls_bypass.php:38
 msgid "You failed the CAPTCHA"
-msgstr ""
+msgstr "CAPTCHA驗證失敗"
 
 #: ../../../..//dnsbls_bypass.php:43 ../../../../dnsbls_bypass.php:38
 msgid ""
@@ -4075,12 +4075,12 @@ msgstr ""
 #: ../../../..//inc/8chan-mod-pages.php:118
 #: ../../../../inc/8chan-mod-pages.php:81
 msgid "Too many tags."
-msgstr ""
+msgstr "太多標籤。"
 
 #: ../../../..//inc/8chan-mod-pages.php:153
 #: ../../../../inc/8chan-mod-pages.php:116
 msgid "Edit tags"
-msgstr ""
+msgstr "編輯標籤"
 
 #: ../../../..//inc/8chan-mod-pages.php:186
 #: ../../../../inc/8chan-mod-pages.php:149
@@ -4198,15 +4198,15 @@ msgstr ""
 #: ../../../..//inc/config.php:1126 ../../../../inc/config.php:1127
 #, php-format
 msgid "The uploaded webm is longer than %d seconds."
-msgstr ""
+msgstr "上傳的WEBM超過了%d秒"
 
 #: ../../../..//inc/config.php:1133 ../../../../inc/config.php:1134
 msgid "Uploading files is disabled on this board."
-msgstr ""
+msgstr "這個版沒有啟用上傳檔案的功能"
 
 #: ../../../..//inc/database.php:95 ../../../../inc/database.php:95
 msgid "Could not connect to the database. Please try again later."
-msgstr ""
+msgstr "無法連接到資料庫。請稍後再試。"
 
 #: ../../../..//inc/database.php:159 ../../../../inc/database.php:159
 msgid ""
@@ -4236,7 +4236,7 @@ msgstr ""
 
 #: ../../../..//inc/mod/pages.php:2519 ../../../../inc/mod/pages.php:2542
 msgid "reply"
-msgstr ""
+msgstr "回應"
 
 #: ../../../..//post.php:51 ../../../../post.php:51
 msgid "Users are not allowed to delete their own posts on this board."
@@ -4244,7 +4244,7 @@ msgstr ""
 
 #: ../../../..//post.php:202 ../../../../post.php:205
 msgid "Close window"
-msgstr ""
+msgstr "關閉視窗"
 
 #: ../../../..//post.php:202 ../../../../post.php:205
 msgid "Report submitted!"
@@ -4253,7 +4253,7 @@ msgstr ""
 #: ../../../..//post.php:451 ../../../../post.php:454
 msgid ""
 "It is required to enter a subject when starting a new thread on this board."
-msgstr ""
+msgstr "開啟新串時必須輸入主題"
 
 #: ../../../..//post.php:628 ../../../../post.php:631
 msgid "You must choose a flag to post on this board!"
@@ -4292,7 +4292,7 @@ msgstr ""
 #: ../../../..//templates/cache/3b/33/faca36680d94bce76fa9da16bba66849e27e5f75741b703386880227c0bb.php:412
 #: ../../../../templates/cache/ac/d1/7519d5673c4e4c9e9cae1769dc9fab3c82dc85766379ef2dfe6351839c03.php:426
 msgid "Options"
-msgstr ""
+msgstr "選項"
 
 #. line 147
 #: ../../../..//templates/cache/3b/33/faca36680d94bce76fa9da16bba66849e27e5f75741b703386880227c0bb.php:409
@@ -4332,12 +4332,12 @@ msgstr ""
 #. line 46
 #: ../../../..//templates/cache/99/20/1287c13fc1fc4c09d45bc069818039e64d4278df360670cb98d50bb03e83.php:204
 msgid "Go to bottom"
-msgstr ""
+msgstr "最底部"
 
 #: ../../../..//templates/cache/b7/fa/7447787b14d16dd6dce8f636ada2dbc24066478fc0ab8622ae653f7f1cd9.php:25
 #: ../../../../templates/cache/f7/81/530d879d2b39e285b276477062202e730129ab004ef607b77577f18bca73.php:25
 msgid "Post last edited at"
-msgstr ""
+msgstr "最近一次編輯"
 
 #: ../../../..//templates/cache/b7/fa/7447787b14d16dd6dce8f636ada2dbc24066478fc0ab8622ae653f7f1cd9.php:36
 #: ../../../../templates/cache/f7/81/530d879d2b39e285b276477062202e730129ab004ef607b77577f18bca73.php:39
@@ -4357,7 +4357,7 @@ msgstr "仲裁記錄"
 #. line 124
 #: ../../../..//templates/cache/3b/33/faca36680d94bce76fa9da16bba66849e27e5f75741b703386880227c0bb.php:334
 #: ../../../../templates/cache/ac/d1/7519d5673c4e4c9e9cae1769dc9fab3c82dc85766379ef2dfe6351839c03.php:347
-msgid "= required field"
+msgid "= 必填"
 msgstr ""
 
 #. line 128
@@ -4449,29 +4449,29 @@ msgstr ""
 #: ../../../..//templates/cache/3b/33/faca36680d94bce76fa9da16bba66849e27e5f75741b703386880227c0bb.php:558
 #: ../../../../templates/cache/ac/d1/7519d5673c4e4c9e9cae1769dc9fab3c82dc85766379ef2dfe6351839c03.php:581
 msgid "Allowed file types:"
-msgstr ""
+msgstr "支援的檔案類型："
 
 #. line 220
 #: ../../../..//templates/cache/3b/33/faca36680d94bce76fa9da16bba66849e27e5f75741b703386880227c0bb.php:568
 #: ../../../../templates/cache/ac/d1/7519d5673c4e4c9e9cae1769dc9fab3c82dc85766379ef2dfe6351839c03.php:591
 msgid "Max filesize is"
-msgstr ""
+msgstr "檔案大小最大為"
 
 #. line 221
 #: ../../../..//templates/cache/3b/33/faca36680d94bce76fa9da16bba66849e27e5f75741b703386880227c0bb.php:574
 #: ../../../../templates/cache/ac/d1/7519d5673c4e4c9e9cae1769dc9fab3c82dc85766379ef2dfe6351839c03.php:597
 msgid "Max image dimensions are"
-msgstr ""
+msgstr "圖片尺寸最大為"
 
 #: ../../../..//templates/cache/3b/33/faca36680d94bce76fa9da16bba66849e27e5f75741b703386880227c0bb.php:586
 #: ../../../../templates/cache/ac/d1/7519d5673c4e4c9e9cae1769dc9fab3c82dc85766379ef2dfe6351839c03.php:609
 msgid "You may upload %max_images% per post."
-msgstr ""
+msgstr "每則貼文可以上傳 %max_images% 張圖片。"
 
 #. line 12
 #: ../../../..//templates/cache/42/1f/5fa20f14b978b35dcbbfd8664e4fe966777ad87a75110db74ecffa567a30.php:41
 msgid "Discard all abuse reports on this content"
-msgstr ""
+msgstr "捨棄所有濫用回報"
 
 #: ../../../..//templates/cache/42/1f/5fa20f14b978b35dcbbfd8664e4fe966777ad87a75110db74ecffa567a30.php:63
 msgid "Demote global abuse reports to local reports"
@@ -4546,7 +4546,7 @@ msgstr ""
 #: ../../../../templates/cache/c2/c7/a6a5f47fbbf29fb166334a9f34462a86aa7b64ae190ed467925dcbaa3793.php:47
 #: ../../../../templates/cache/c2/c7/a6a5f47fbbf29fb166334a9f34462a86aa7b64ae190ed467925dcbaa3793.php:106
 msgid "Title"
-msgstr ""
+msgstr "標題"
 
 #. line 19
 #: ../../../..//templates/cache/7d/3b/70b1365f24d967e647b97daaf7a6a943bf6c9631f838fe06cdbd9c60da8d.php:57
@@ -4570,7 +4570,7 @@ msgstr ""
 #: ../../../..//templates/cache/7d/3b/70b1365f24d967e647b97daaf7a6a943bf6c9631f838fe06cdbd9c60da8d.php:87
 #: ../../../../templates/cache/e6/b0/35e368580dcc89b914ecbee239e0749e2426bcabb2ee16de3d5a32caa266.php:87
 msgid "Forced anonymous"
-msgstr ""
+msgstr "強制匿名"
 
 #. line 30
 #: ../../../..//templates/cache/7d/3b/70b1365f24d967e647b97daaf7a6a943bf6c9631f838fe06cdbd9c60da8d.php:95
